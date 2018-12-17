@@ -2,7 +2,7 @@
 
 ## 用例：
 ```
-config test E:\***\ZipSearcher\Examples 3.txt  
+config test[名称] E:\***\ZipSearcher\Examples[压缩包路径] 3.txt[压缩包里面的文件路径]
 sz hello  
 
 ---------
