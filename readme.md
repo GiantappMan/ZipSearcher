@@ -4,6 +4,7 @@
 ```
 config test[名称] E:\***\ZipSearcher\Examples[压缩包路径] 3.txt[压缩包里面的文件路径]
 sz hello  
+sz 'xxx xxx'
 
 ---------
 输出  
